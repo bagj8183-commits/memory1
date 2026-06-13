@@ -1,0 +1,11 @@
+{
+  "ceo": "qwen3-0.6b",
+  "youtube": "nvidia/nemotron-3-nano-4b",
+  "instagram": "nvidia/nemotron-3-nano-4b",
+  "designer": "google/gemma-4-e4b",
+  "business": "nvidia/nemotron-3-nano-4b",
+  "secretary": "nvidia/nemotron-3-nano-4b",
+  "editor": "nvidia/nemotron-3-nano-4b",
+  "writer": "nvidia/nemotron-3-nano-4b",
+  "researcher": "nvidia/nemotron-3-nano-4b"
+}
